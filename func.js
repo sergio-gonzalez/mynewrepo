@@ -6,3 +6,8 @@ var x =2;
 double(x);
 //
 //  Eu adicionei essa linha 
+//
+ 
+
+
+//    fiz essas modificacoes no final do arquivo.
